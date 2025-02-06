@@ -1,0 +1,15 @@
+body{
+    margin:0px;
+}
+.container-residential-building{
+    display:flex;
+}
+.residential-building-stock{
+    display:flex;
+    width:35%;
+    height:100%;
+}
+.residential-building-description{
+    display:flex;
+    width:60%;
+}

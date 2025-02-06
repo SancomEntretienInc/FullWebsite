@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+}
+.container-commercial-office{
+    display:flex;
+}
+.commercial-office-img{
+    display:flex;
+    flex:1;
+}
+.commercial-office-description{
+    display:flex;
+    flex:2;
+}

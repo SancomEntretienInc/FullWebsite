@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+}
+.container-construction-site{
+    display:flex;
+}
+.construction-site-img{
+    display:flex;
+    flex:1;
+}
+.construction-site-description{
+    display:flex;
+    flex:2;
+}
