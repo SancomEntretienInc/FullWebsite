@@ -1,0 +1,145 @@
+body{
+    margin:0px;
+}
+.top-banner{
+    display:flex;
+    flex:1;
+    min-height:100px;
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+.logo-sancom-box{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    background-color: aquamarine;
+}
+.billboard{
+    display:flex;
+    flex:4;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.sancom-tag{
+    font-size:45px;
+    color:white;
+}
+.sancom-tag span{
+    color:grey;
+}
+.phone-number{
+    display:flex;
+    flex:1;
+    background-color: blueviolet;
+    align-items:center;
+    justify-content: center;
+}
+.digits{
+    display:flex;
+    color:darkblue;
+    width:60;
+    height:30%;
+    background-color:blueviolet;
+}
+.logo-img{
+    display:flex;
+    float:left;
+    height:115px;
+    width:100%;
+
+}
+.info-phone-number{
+    display:flex;
+    font-size:20px;
+    background-color: darkmagenta;
+    color:white;
+}
+.movie-set-info{
+    display:flex;
+    flex:1;
+}
+.movie-set-img{
+    display:flex;
+    flex:1;
+}
+.sec-movie-img{
+    display:flex;
+    flex:1;
+}
+.sec-movie-desc{
+    display:flex;
+    flex:2;
+    background-color: lightgrey;
+}
+.movie-set-description{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    flex:1;
+    width:75%;
+}
+.movie-set-title{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family:"Bungee Tint",sans-serif;
+    font-weight:300;
+    font-style:normal;
+}
+.movie-set-para{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-family:"Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:575;
+    font-style:normal;
+    font-size:25px;
+}
+.footer-container{
+    display:flex;
+    width:100%;
+    background-color: grey;
+    height:auto;
+}
+.icons-flexbox{
+    display:flex;
+    flex:1;
+}
+.icons-container{
+    display:grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+    background-color: grey;
+    margin:10px;
+}
+.language-selection-footer{
+    display:flex;
+    flex:4;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.language-options{
+    display:grid;
+    grid-auto-flow:column;
+    grid-column-gap:10px;
+    text-decoration: none;
+}
+
+.contact-info-container{
+    display:flex;
+    flex:1;
+}
+.contact-info{
+    display:grid;
+    grid-auto-flow:column;
+    grid-column-gap:10px;
+    background-color:grey;
+    margin:10px;
+    font-size:14px;
+    color:aliceblue
+}
