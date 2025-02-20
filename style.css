@@ -250,10 +250,18 @@ body{
     overflow: visible !important;
 }
 .tel-numb:link{
+    font-size:12px;
     color:darkblue;
     background-color:transparent;
 }
 .mail-link:link{
+    font-size:12px;
     color:darkblue;
     background-color:transparent;
+}
+.bi.bi-telephone-fill{
+    font-size:12px;
+}
+.bi.bi-envelope{
+    font-size:12px;
 }
