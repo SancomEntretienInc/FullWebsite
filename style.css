@@ -249,4 +249,11 @@ body{
 .dropdown-menu{
     overflow: visible !important;
 }
-
+.tel-numb:link{
+    color:darkblue;
+    background-color:transparent;
+}
+.mail-link:link{
+    color:darkblue;
+    background-color:transparent;
+}
